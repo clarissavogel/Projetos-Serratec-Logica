@@ -1,11 +1,10 @@
-#Projetos realizados em grupo para a disciplina de Logica da Residência em TIC Software 2022.2 - Serratec
+# PROJETOS REALIZADOS EM GRUPO PARA A DISCIPLINA DE LOGICA DA RESIDENCIA EM TIC SOFTWARE 2022.2 - SERRATEC<br>
+<p>Realizado no PortugolStudio</p>
+<p>Grupo 5 - participantes:</p>
 
-Realizado no PortugolStudio
-Participantes: 
-
-Clarissa Vogel
-Gisele Britto
-Lucas Marques
-Pedro Lacerda
-Paulo Mayworm
-João Mário Bandeira
+<p>Clarissa Vogel</p>
+<p>Gisele Britto</p>
+<p>Lucas Marques</p>
+<p>Pedro Lacerda</p>
+<p>Paulo Mayworm</p>
+<p>João Mário Bandeira</p>
