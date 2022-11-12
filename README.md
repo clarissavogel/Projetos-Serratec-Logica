@@ -1,2 +1,11 @@
-# trabalho-grupo-5
-Trabalho do dia 13/08/2022 da turma 5 - grupo 5
+#Projetos realizados em grupo para a disciplina de Logica da Residência em TIC Software 2022.2 - Serratec
+
+Realizado no PortugolStudio
+Participantes: 
+
+Clarissa Vogel
+Gisele Britto
+Lucas Marques
+Pedro Lacerda
+Paulo Mayworm
+João Mário Bandeira
